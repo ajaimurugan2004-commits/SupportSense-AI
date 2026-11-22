@@ -1,0 +1,6 @@
+{
+  "name": "SupportSense AI",
+  "description": "AI-assisted customer feedback intelligence platform for sentiment analysis, customer empathy, and prioritized product roadmap planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
